@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DOTNET files\\WebApplication_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\migrations\\20240603121636_intit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:migrations\\20240603121636_intit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\repository\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:repository\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\service\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:service\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|e:\\dotnet files\\webapplication_server\\webapplication_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5F0B177-6A9B-4354-BDED-C533DF076BAE}|WebApplication_server.csproj|solutionrelative:webapplication_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:36:14.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:33:57.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240603121636_intit.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\Migrations\\20240603121636_intit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240603121636_intit.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\Migrations\\20240603121636_intit.cs",
+              "RelativeToolTip": "Migrations\\20240603121636_intit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:16:36.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T12:15:06.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:14:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppdbContextcs.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\Repository\\AppdbContextcs.cs",
+              "RelativeDocumentMoniker": "Repository\\AppdbContextcs.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\Repository\\AppdbContextcs.cs",
+              "RelativeToolTip": "Repository\\AppdbContextcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:02:47.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "empservice.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\Service\\empservice.cs",
+              "RelativeDocumentMoniker": "Service\\empservice.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\Service\\empservice.cs",
+              "RelativeToolTip": "Service\\empservice.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:02:07.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iemployee.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\Service\\Iemployee.cs",
+              "RelativeDocumentMoniker": "Service\\Iemployee.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\Service\\Iemployee.cs",
+              "RelativeToolTip": "Service\\Iemployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:51:25.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplication_server.csproj",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\WebApplication_server.csproj",
+              "RelativeDocumentMoniker": "WebApplication_server.csproj",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\WebApplication_server.csproj",
+              "RelativeToolTip": "WebApplication_server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T10:50:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DOTNET files\\WebApplication_server\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "models\\Employee.cs",
+              "ToolTip": "E:\\DOTNET files\\WebApplication_server\\models\\Employee.cs",
+              "RelativeToolTip": "models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:50:20.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
